@@ -1,8 +1,12 @@
 <div align="center">
   
-  # Hi there, I'm Nguyen Khang! 👋
-  ### An IT Student with a strong focus on AI and Machine Learning!
-  
+# Hi there, I'm Nguyen Khang! 👋
+
+### An IT Student with a strong focus on AI and Machine Learning!
+
+[![Nguyen Khang's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=khangronky&show_icons=true&theme=shadow_blue#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Nguyen Khang's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=khangronky&show_icons=true&theme=radical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
 </div>
 
 ## About Me
@@ -51,11 +55,6 @@
 <a href="https://aws.amazon.com/"><img src="https://cdn.jsdelivr.net/npm/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="50" height="50"/></a>
 <a href="https://azure.microsoft.com/"><img src="https://cdn.jsdelivr.net/npm/devicon/icons/azure/azure-original.svg" alt="Azure" width="50" height="50"/></a>
 <a href="https://cloud.google.com/"><img src="https://cdn.jsdelivr.net/npm/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="50" height="50"/></a>
-
-## GitHub Stats
-
-[![Nguyen Khang's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=khangronky&show_icons=true&theme=shadow_blue#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-[![Nguyen Khang's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=khangronky&show_icons=true&theme=radical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 ## Get In Touch
 
