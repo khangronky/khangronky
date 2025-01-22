@@ -1,5 +1,7 @@
 <div align="center">
-  
+
+![Background Image](./images/background.png)
+
 # Hi there, I'm Nguyen Khang! 👋
 
 ### An IT Student with a strong focus on AI and Machine Learning!
