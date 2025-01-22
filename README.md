@@ -1,23 +1,56 @@
-# Hi there, I'm Nguyen Khang! 👋
-
-Welcome to my GitHub profile! I am an IT Student with a strong focus on Artificial Intelligence and Machine Learning. I am also interested in Arduino development and Robotics as a whole, so I would love to apply AI into this field so.
+<div align="center">
+  
+  # Hi there, I'm Nguyen Khang! 👋
+  ### An IT Student with a strong focus on AI and Machine Learning!
+  
+</div>
 
 ## About Me
 
-- 💻 **Currently working on:** Various open-source projects and personal development.
-- 🌱 **Learning:** Deepening my knowledge in machine learning and cloud computing.
-- ⚡ **Hobbies:** Coding, reading tech blogs, and playing video games.
-- ✨ **Fun Fact:** I can solve a Rubik's cube in under a minute!
+🎓 **Major:** Artificial Intelligence, Machine Learning.
+
+💻 **Other Interests:** Arduino development, Robotics.
+
+🌱 **Learning:** Deepening my knowledge in machine learning and web development.
+
+⚡ **Hobbies:** Coding, reading tech blogs, and solving Math.
 
 ## Technologies & Tools
 
-Here are some of the technologies and tools I work with:
+**Languages:**
 
-- **Languages:** Python, JavaScript, TypeScript, Java, C++
-- **Web Development:** HTML, CSS, React.js, Express.js, Next.js
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **DevOps:** Docker, Kubernetes, Jenkins, GitHub Actions
-- **Cloud:** AWS, Azure, Google Cloud
+<a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/npm/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/></a>
+<a href="https://www.javascript.com/"><img src="https://cdn.jsdelivr.net/npm/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/></a>
+<a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/npm/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/></a>
+<a href="https://www.java.com/"><img src="https://cdn.jsdelivr.net/npm/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/></a>
+<a href="https://isocpp.org/"><img src="https://cdn.jsdelivr.net/npm/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/></a>
+
+**Web Development:**
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/npm/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/npm/devicon/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/></a>
+<a href="https://reactjs.org/"><img src="https://cdn.jsdelivr.net/npm/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/></a>
+<a href="https://expressjs.com/"><img src="https://cdn.jsdelivr.net/npm/devicon/icons/express/express-original.svg" alt="Express" width="50" height="50"/></a>
+<a href="https://nextjs.org/"><img src="https://cdn.jsdelivr.net/npm/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50"/></a>
+
+**Databases:**
+
+<a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/npm/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/></a>
+<a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/npm/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/></a>
+<a href="https://www.mongodb.com/"><img src="https://cdn.jsdelivr.net/npm/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/></a>
+
+**DevOps:**
+
+<a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/npm/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/></a>
+<a href="https://kubernetes.io/"><img src="https://cdn.jsdelivr.net/npm/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50" height="50"/></a>
+<a href="https://www.jenkins.io/"><img src="https://cdn.jsdelivr.net/npm/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="50" height="50"/></a>
+<a href="https://github.com/features/actions"><img src="https://cdn.jsdelivr.net/npm/devicon/icons/github/github-original.svg" alt="GitHub Actions" width="50" height="50"/></a>
+
+**Cloud:**
+
+<a href="https://aws.amazon.com/"><img src="https://cdn.jsdelivr.net/npm/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="50" height="50"/></a>
+<a href="https://azure.microsoft.com/"><img src="https://cdn.jsdelivr.net/npm/devicon/icons/azure/azure-original.svg" alt="Azure" width="50" height="50"/></a>
+<a href="https://cloud.google.com/"><img src="https://cdn.jsdelivr.net/npm/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="50" height="50"/></a>
 
 ## GitHub Stats
 
@@ -28,9 +61,9 @@ Here are some of the technologies and tools I work with:
 
 Feel free to reach out to me for collaboration or just to say hi!
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nguyengiakhang646@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/khangronky)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/khangronky)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khangronky)
+<a href="mailto:nguyengiakhang646@gmail.com"><img src="https://github.com/user-attachments/assets/1d4a0a41-76fd-4d05-b38d-9e6c82459a5f" alt="Email" width="50" height="50"/></a>
+<a href="https://facebook.com/khangronky"><img src="https://github.com/user-attachments/assets/b24fd000-d0ee-4ef2-97ef-f232fa933646" alt="Facebook" width="50" height="50"/></a>
+<a href="https://instagram.com/khangronky"><img src="https://github.com/user-attachments/assets/99f7503c-de54-47d7-a667-83509cc1c873" alt="Instagram" width="50" height="50"/></a>
+<a href="https://www.linkedin.com/in/khangronky"><img src="https://github.com/user-attachments/assets/c67721e3-8b86-4d52-ac01-e96690ec9e19" alt="LinkedIn" width="50" height="50"/></a>
 
 Thanks for visiting my profile! Have a great day! 😊
