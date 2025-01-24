@@ -54,7 +54,7 @@
 
 **Cloud:**
 
-<a href="https://aws.amazon.com/"><img src="https://cdn.jsdelivr.net/npm/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="50" height="50"/></a>
+<a href="https://aws.amazon.com/"><img src="https://cdn.jsdelivr.net/npm/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/></a>
 <a href="https://azure.microsoft.com/"><img src="https://cdn.jsdelivr.net/npm/devicon/icons/azure/azure-original.svg" alt="Azure" width="50" height="50"/></a>
 <a href="https://cloud.google.com/"><img src="https://cdn.jsdelivr.net/npm/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="50" height="50"/></a>
 
