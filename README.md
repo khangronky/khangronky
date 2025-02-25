@@ -6,8 +6,7 @@
 
 ### An IT Student with a strong focus on AI and Machine Learning!
 
-[![Nguyen Khang's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=khangronky&show_icons=true&theme=shadow_blue#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-[![Nguyen Khang's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=khangronky&show_icons=true&theme=radical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Nguyen Khang's GitHub stats](https://github-readme-stats.vercel.app/api?username=khangronky&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
