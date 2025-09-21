@@ -24,10 +24,10 @@
 
 **Languages:**
 
-<a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/npm/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/></a>
-<a href="https://www.javascript.com/"><img src="https://cdn.jsdelivr.net/npm/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/></a>
-<a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/npm/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/></a>
-<a href="https://www.java.com/"><img src="https://cdn.jsdelivr.net/npm/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/></a>
+<a href="https://python.org/"><img src="https://cdn.jsdelivr.net/npm/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/></a>
+<a href="https://javascript.com/"><img src="https://cdn.jsdelivr.net/npm/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/></a>
+<a href="https://typescriptlang.org/"><img src="https://cdn.jsdelivr.net/npm/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/></a>
+<a href="https://java.com/"><img src="https://cdn.jsdelivr.net/npm/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/></a>
 <a href="https://isocpp.org/"><img src="https://cdn.jsdelivr.net/npm/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/></a>
 
 **Web Development:**
@@ -40,22 +40,21 @@
 
 **Databases:**
 
-<a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/npm/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/></a>
-<a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/npm/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/></a>
-<a href="https://www.mongodb.com/"><img src="https://cdn.jsdelivr.net/npm/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/></a>
+<a href="https://supabase.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" alt="Supabase" width="50" height="50"/></a>
+<a href="https://postgresql.org/"><img src="https://cdn.jsdelivr.net/npm/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/></a>
+<a href="https://mongodb.com/"><img src="https://cdn.jsdelivr.net/npm/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/></a>
 
 **DevOps:**
 
-<a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/npm/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/></a>
+<a href="https://github.com/features/actions"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-plain.svg" alt="GitHub Actions" width="50" height="50"/></a>
+<a href="https://jenkins.io/"><img src="https://cdn.jsdelivr.net/npm/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="50" height="50"/></a>
+<a href="https://docs.ansible.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" width="50" height="50"/></a>
+<a href="https://docker.com/"><img src="https://cdn.jsdelivr.net/npm/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/></a>
 <a href="https://kubernetes.io/"><img src="https://cdn.jsdelivr.net/npm/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50" height="50"/></a>
-<a href="https://www.jenkins.io/"><img src="https://cdn.jsdelivr.net/npm/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="50" height="50"/></a>
-<a href="https://github.com/features/actions"><img src="https://cdn.jsdelivr.net/npm/devicon/icons/github/github-original.svg" alt="GitHub Actions" width="50" height="50"/></a>
 
 **Cloud:**
 
 <a href="https://aws.amazon.com/"><img src="https://cdn.jsdelivr.net/npm/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/></a>
-<a href="https://azure.microsoft.com/"><img src="https://cdn.jsdelivr.net/npm/devicon/icons/azure/azure-original.svg" alt="Azure" width="50" height="50"/></a>
-<a href="https://cloud.google.com/"><img src="https://cdn.jsdelivr.net/npm/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="50" height="50"/></a>
 
 ## Get In Touch
 
